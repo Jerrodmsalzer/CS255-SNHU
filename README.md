@@ -1,1 +1,1 @@
-# CS255-SNHU
+# CS255-SNHU Jerrod Salzer CS 255
